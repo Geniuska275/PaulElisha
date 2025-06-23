@@ -1,0 +1,10 @@
+body {
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style: normal;
+}
+
+li{
+  padding:1em;
+}
