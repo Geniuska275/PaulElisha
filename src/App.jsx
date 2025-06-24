@@ -13,7 +13,7 @@ function App() {
             <p>Stints:</p>
             <ul>
                 <li>
-                    dev ambassador, <a href="">@kaiafoundation</a> building backend sdk, smart contract development ,engaging the developer community and solving problems; 
+                    dev ambassador, <a href="https://www.kaia.io/">@kaiafoundation</a> building backend sdk, smart contract development ,engaging the developer community and solving problems; 
                 </li>
                 <li>
                     Open source contribution,
