@@ -16,12 +16,8 @@ function App() {
                     dev ambassador, <a href="https://www.kaia.io/">@kaiafoundation</a> building backend sdk, smart contract development ,engaging the developer community and solving problems; 
                 </li>
                 <li>
-                    Open source contribution,
-         <a href='https://bifrost.io/'>
-          @bifrost; 
-            </a>  <a href='https://docs.uniswap.org/'>
-        @uniswap; 
-            </a>    improved technical documentation on Uniswap V4,deployed a hook to maximize yield on bifrost.
+                    Open source contribution,<a href='https://bifrost.io/'>@bifrost; </a><a href='https://docs.uniswap.org/'>@uniswap; 
+            </a> improved technical documentation on Uniswap V4,deployed a hook to maximize yield on bifrost.
                 </li>
                 {/* <li>
                     research <a href="https://nasa.gov">@nasa</a>
