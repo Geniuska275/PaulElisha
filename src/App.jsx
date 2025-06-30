@@ -7,17 +7,17 @@ function App() {
   return (
      <body class="__variable_5cfdac __variable_9a8899 antialiased">
         <div class="app">
-            <p>Paul Elisha</p>
+            <p>paul elisha</p>
             <p>engineer, researcher and thinker</p>
             <br/>
             <p>Stints:</p>
             <ul>
                 <li>
-                    dev ambassador, <a href="https://www.kaia.io/">@kaiafoundation</a> building backend sdk, smart contract development ,engaging the developer community and solving problems; 
+                    dev Ambassador, <a href="https://www.kaia.io/">@kaiafoundation</a>: building backend SDK, smart contract development, engaging the developer community, and solving problems.
+
                 </li>
                 <li>
-                    Open source contribution,<a href='https://bifrost.io/'>@bifrost; </a><a href='https://docs.uniswap.org/'>@uniswap; 
-            </a> improved technical documentation on Uniswap V4,deployed a hook to maximize yield on bifrost.
+                  open source contribution: <a href='https://bifrost.io/'>@bifrost</a>; <a href='https://docs.uniswap.org/'>@uniswap</a>. Improved technical documentation on Uniswap V4 and deployed a hook to maximize yield on Bifrost.
                 </li>
                 {/* <li>
                     research <a href="https://nasa.gov">@nasa</a>
@@ -37,7 +37,7 @@ function App() {
                     Selected Publications
                     <ul>
                         <li>
-                           <a href='https://paragraph.com/@break-into-defi/uniswap-v3-advanced-mechanics'>Uniswap V3 Advanced Mechanic:</a> a break down involving math and Mechanics of the underlying protocol.
+                          <a href='https://paragraph.com/@break-into-defi/uniswap-v3-advanced-mechanics'>Uniswap V3 Advanced Mechanics:</a> a breakdown involving the math and mechanics of the underlying protocol.
                         </li>
                         <li>
                            <a href='https://paragraph.com/@break-into-defi/uniswap-v2-advanced-mechanics'>Uniswap V2 Advanced Mechanic:</a> a break down involving liquidity math and Mechanics.
