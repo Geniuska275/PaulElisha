@@ -8,7 +8,7 @@ function App() {
      <body class="__variable_5cfdac __variable_9a8899 antialiased">
         <div class="app">
             <p>paul elisha</p>
-            <p>engineer, researcher and thinker</p>
+            <p>engineer and researcher</p>
             <br/>
             <p>Stints:</p>
             <ul>
@@ -47,15 +47,15 @@ function App() {
                 </li>
                 <br/>
             </ul>
-            <p>building sdks, helping developers, and a technical thinker. </p>
+            <p>building and designing backend systems. </p>
             
             <p class="socials">
-                <a href="https://github.com/pualelisha">github</a>
-                <a href="https://www.linkedin.com/in/paul-elisha-659268198/ ">linkedin</a>
-                <a href="https://x.com/paulelisha">twitter</a>
+                <a href="https://github.com/pualelisha" class="b">github</a>
+                <a href="https://www.linkedin.com/in/paul-elisha-659268198/ " class="b">linkedin</a>
+                <a href="https://x.com/paulelisha" class="b">twitter</a>
             </p>
             <p>
-                <a href="mailto:ajaoireoluwa1@gmail.com">ajaoireoluwa1@gmail.com</a>
+                <a href="mailto:ajaoireoluwa1@gmail.com" class='b'>ajaoireoluwa1@gmail.com</a>
             </p>
         </div>
       
