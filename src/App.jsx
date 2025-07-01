@@ -13,7 +13,8 @@ function App() {
             <p>Stints:</p>
             <ul>
                 <li>
-                    devrel ambassador and research, <a href="https://www.kaia.io/">@kaiafoundation</a>: building backend SDK, smart contract development, engaging the developer community, and solving problems.
+                    
+                    devrel and research, <a href="https://www.kaia.io/">@kaiafoundation</a>: building backend SDK, smart contract development, engaging the developer community, and solving problems.
 
                 </li>
                 <li>
